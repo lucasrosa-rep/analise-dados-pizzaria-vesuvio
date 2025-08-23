@@ -3,11 +3,12 @@
 ## 1. Visão Geral do Projeto
 
 Este projeto simula um sistema de pedidos para a pizzaria fictícia "Vesuvio", com o objetivo de estruturar um banco de dados relacional e, futuramente, extrair insights de negócio através de análises.
-Este é um projeto de portfólio desenvolvido para aplicar e demonstrar habilidades em modelagem de dados, **SQL** e, nas próximas fases, **Business Intelligence (BI)**.
+Este é um projeto de portfólio desenvolvido para aplicar e demonstrar habilidades em **modelagem de dados**, **SQL** e, nas próximas fases, **Business Intelligence (BI)**.
 
 ## 2. Tecnologias Utilizadas 
 
 Banco de Dados: **MySQL**
+
 Modelagem de Dados: **MySQL Workbench**
 
 Versionamento: **Git & GitHub**
